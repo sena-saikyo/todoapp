@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.title {
+    font-size: 60px;
+    color: #ff0000;
+    text-shadow:
+   -1px -1px 0 black,
+    1px -1px 0 black,
+   -1px  1px 0 black,
+    1px  1px 0 black;
+    font-weight: bold;
+    text-align: center;
+}
+
+
